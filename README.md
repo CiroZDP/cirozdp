@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi, guys! 👋</h1>
 
-<!--
-**CiroZDP/cirozdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  # Ciro Alejo Diaz Ferraris
+</div>
 
-Here are some ideas to get you started:
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Frameworks
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+
+### OS
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+![FreeDOS](https://img.shields.io/badge/FreeDOS-black?style=for-the-badge&logo=dolphin)
