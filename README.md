@@ -7,7 +7,7 @@ My main language is Spanish but i can speak English fluidly, i also can speak ba
 Skills as a professional with **Java vanilla** and basic **C++**. I had some experience
 in VBScript and in Batch.
 
-### Frameworks
+### Frameworks:
 ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
 
 ### Projects:
