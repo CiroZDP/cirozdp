@@ -1,7 +1,7 @@
 <h1 align="center">Hi, guys! 👋</h1>
 
 <div align="center">
-  # Ciro Alejo Diaz Ferraris
+  <h1>Ciro Alejo Diaz Ferraris</h1>
 </div>
 
 ### Languages
