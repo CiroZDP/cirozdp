@@ -17,6 +17,8 @@ in VBScript and in Batch.
 - Java: Salu8bre (*Download not available yet* 😢)
 - Java: OpenCraft ([Download](https://github.com/CiroDOS/OpenCraft))
 - HTML: Minecraft Javascript Edition ([Download](https://github.com/CiroDOS/Minecraft-Javascript-Edition))
+- VBScript: OpenHost ([Download](https://gist.github.com/CiroDOS/346fcc27049edf2265b920f55b7d3993))
+- HTML: x16 Processor ([Download](https://gist.github.com/CiroDOS/1ec3baa7121a86b29695be9e28b729d9))
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
