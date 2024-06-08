@@ -18,7 +18,7 @@ in VBScript and in Batch.
 - Java: OpenCraft Java Edition ([Download](https://github.com/OpenCraft-Studios/Java-Edition))
 - HTML: OpenCraft JavaScript Edition ([Download](https://github.com/OpenCraft-Studios/JavaScript-Edition))
 - VBScript: OpenHost ([Download](https://gist.github.com/CiroDOS/346fcc27049edf2265b920f55b7d3993))
-- C++: Nova, a roblox clone (*Download not available for DMCA infringments*)
+- C++: Nova, a roblox clone (*Download not available for because of DMCA infringments*)
 - HTML: x16 Processor ([Download](https://gist.github.com/CiroDOS/1ec3baa7121a86b29695be9e28b729d9))
 
 ### Languages
