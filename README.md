@@ -1,6 +1,6 @@
 <h1 align="center">Hi, guys! 👋</h1>
 
-**My fullname is** Ciro Alejo Diaz Ferraris
+**My fullname is** Ciro Alejo Diaz Ferraris and I was born in Argentina.
 
 My main language is Spanish but i can speak English fluidly, i also can speak basic italian.
 
