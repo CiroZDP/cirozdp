@@ -14,12 +14,12 @@ in Visual Basic and in Batch.
 - HTML: Caligraphy ([Download](https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/))
 - Java: SonyStark ([Download](https://sourceforge.net/projects/ciro2-utilities/files/SonyStark/))
 - Batch: BIOS Simulator ([Download](https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/))
-- Java: Salu8bre (*Download not available yet* 😢)
 - Java: OpenCraft Java Edition ([Download](https://github.com/OpenCraft-Studios/Java-Edition))
+- Java: OpenCraft LWJGL Edition ([Download](https://github.com/OpenCraft-Studios/OpenCraft))
 - HTML: OpenCraft JavaScript Edition ([Download](https://github.com/OpenCraft-Studios/JavaScript-Edition))
 - VBScript: OpenHost ([Download](https://gist.github.com/CiroDOS/346fcc27049edf2265b920f55b7d3993))
-- C++: Nova, a roblox clone (*Download not available for because of DMCA infringments*)
 - HTML: x16 Processor ([Download](https://gist.github.com/CiroDOS/1ec3baa7121a86b29695be9e28b729d9))
+- Graphics Library: MiniGL (coming soon!)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
