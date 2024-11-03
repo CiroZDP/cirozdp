@@ -17,7 +17,7 @@ in Visual Basic and in Batch.
 - Java: OpenCraft Java Edition ([Download](https://github.com/OpenCraft-Studios/Java-Edition))
 - Java: OpenCraft LWJGL Edition ([Download](https://github.com/OpenCraft-Studios/OpenCraft))
 - HTML: OpenCraft JavaScript Edition *(Old)* ([Download](https://github.com/CiroZDP/mc-jse))
-- Graphics Library: HeavyGL ([Download](https://gist.github.com/HeavyGL/heavygl))
+- Graphics Library: HeavyGL ([Download](https://github.com/HeavyGL/heavygl))
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
