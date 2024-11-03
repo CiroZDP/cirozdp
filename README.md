@@ -4,7 +4,7 @@
 
 My main language is Spanish but i can speak English fluidly, i also can speak basic italian.
 
-Skills as a professional with **Java vanilla** and basic **C++**. I had some experience
+Skills as a professional with **Java vanilla** and moderate experience with **C++**. I had some experience
 in Visual Basic and in Batch.
 
 ### Frameworks
@@ -16,10 +16,8 @@ in Visual Basic and in Batch.
 - Batch: BIOS Simulator ([Download](https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/))
 - Java: OpenCraft Java Edition ([Download](https://github.com/OpenCraft-Studios/Java-Edition))
 - Java: OpenCraft LWJGL Edition ([Download](https://github.com/OpenCraft-Studios/OpenCraft))
-- HTML: OpenCraft JavaScript Edition ([Download](https://github.com/OpenCraft-Studios/JavaScript-Edition))
-- VBScript: OpenHost ([Download](https://gist.github.com/CiroDOS/346fcc27049edf2265b920f55b7d3993))
-- HTML: x16 Processor ([Download](https://gist.github.com/CiroDOS/1ec3baa7121a86b29695be9e28b729d9))
-- Graphics Library: MiniGL (coming soon!)
+- HTML: OpenCraft JavaScript Edition *(Old)* ([Download](https://github.com/CiroZDP/mc-jse))
+- Graphics Library: HeavyGL ([Download](https://gist.github.com/HeavyGL/heavygl))
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
