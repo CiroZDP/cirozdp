@@ -14,10 +14,8 @@ in Visual Basic and in Batch.
 - HTML: Caligraphy ([Download](https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/))
 - Java: SonyStark ([Download](https://sourceforge.net/projects/ciro2-utilities/files/SonyStark/))
 - Batch: BIOS Simulator ([Download](https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/))
-- Java: OpenCraft Java Edition ([Download](https://github.com/OpenCraft-Studios/Java-Edition))
-- Java: OpenCraft LWJGL Edition ([Download](https://github.com/OpenCraft-Studios/OpenCraft))
 - HTML: OpenCraft JavaScript Edition *(Old)* ([Download](https://github.com/CiroZDP/mc-jse))
-- Graphics Library: HeavyGL ([Download](https://github.com/HeavyGL/heavygl))
+- Assembler, C: Dsacle ([See more](https://github.com/CiroZDP/dsacle))
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
