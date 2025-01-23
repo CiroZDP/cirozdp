@@ -9,16 +9,10 @@
 ### Projects
 
 <div align="center">
-  <a href="https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/">    <img width="20%" alt="Caligraphy"     src="caligraphy_card.png" /></a>&nbsp;
-  <a href="https://sourceforge.net/projects/ciro2-utilities/files/SonyStark/">     <img width="20%" alt="SonyStark"      src="sonystark_card.png"  /></a>&nbsp;
-  <a href="https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/"><img width="20%" alt="BIOS Simulator" src="biossim_card.png"    /></a>&nbsp;
+  <a href="https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/">    <img width="29%" alt="Caligraphy"     src="caligraphy_card.png" /></a>&nbsp;
+  <a href="https://sourceforge.net/projects/ciro2-utilities/files/SonyStark/">     <img width="29%" alt="SonyStark"      src="sonystark_card.png"  /></a>&nbsp;
+  <a href="https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/"><img width="29%" alt="BIOS Simulator" src="biossim_card.png"    /></a>&nbsp;
 </div>
-
-
-
-
-- **ʜᴛᴍʟ** OpenCraft JavaScript Edition *(Old)* ([Download](https://github.com/CiroZDP/mc-jse))
-- **Assembler, C** Dsacle ([See more](https://github.com/CiroZDP/dsacle))
 
 ## Skills 🛠️🤔
 
