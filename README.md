@@ -10,8 +10,8 @@
 
 <a href="https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/"><img alt="Caligraphy" src="caligraphy_card.png" /></a>
 <a href="https://sourceforge.net/projects/ciro2-utilities/files/SonyStark/"><img alt="SonyStark" src="sonystark_card.png" /></a>
+<a href="https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/"><img alt="BIOS Simulator" src="biossim_card.png" /></a>
 
-- **ʙᴀᴛᴄʜ** BIOS Simulator ([Download](https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/))
 - **ʜᴛᴍʟ** OpenCraft JavaScript Edition *(Old)* ([Download](https://github.com/CiroZDP/mc-jse))
 - **Assembler, C** Dsacle ([See more](https://github.com/CiroZDP/dsacle))
 
