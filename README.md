@@ -1,26 +1,23 @@
-<h1 align="center">Hi, guys! 👋</h1>
+<h3 align="center">Hi there, I'm <a href="https://discord.com/users/1239165757653389324">Ciro</a> 👋</h3>
+<br />
+<h1 align="center">I'm a Full-Stack Developer, Gamer 🎮, and Autodidact 🧑‍🏫</h1>
 
-**My fullname is** Ciro Alejo Diaz Ferraris and I was born in Argentina.
-
-My main language is Spanish but i can speak English fluidly, i also can speak basic italian.
-
-Skills as a professional with **Java vanilla** and moderate experience with **C++**. I had some experience
-in Visual Basic and in Batch.
-
-### Frameworks
-![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
+### 🤝 Connect with me
+[![](https://dcbadge.limes.pink/api/shield/1239165757653389324)](https://discord.com/users/1239165757653389324)
+- 💬  If you have any question/feedback, please do not hesitate to reach me out!
 
 ### Projects
-- HTML: Caligraphy ([Download](https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/))
-- Java: SonyStark ([Download](https://sourceforge.net/projects/ciro2-utilities/files/SonyStark/))
-- Batch: BIOS Simulator ([Download](https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/))
-- HTML: OpenCraft JavaScript Edition *(Old)* ([Download](https://github.com/CiroZDP/mc-jse))
-- Assembler, C: Dsacle ([See more](https://github.com/CiroZDP/dsacle))
+- **ʜᴛᴍʟ** Caligraphy ([Download](https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/))
+- **ᴊᴀᴠᴀ** SonyStark ([Download](https://sourceforge.net/projects/ciro2-utilities/files/SonyStark/))
+- **ʙᴀᴛᴄʜ** BIOS Simulator ([Download](https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/))
+- **ʜᴛᴍʟ** OpenCraft JavaScript Edition *(Old)* ([Download](https://github.com/CiroZDP/mc-jse))
+- **Assembler, C** Dsacle ([See more](https://github.com/CiroZDP/dsacle))
 
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-![NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+## Skills 🛠️🤔
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
