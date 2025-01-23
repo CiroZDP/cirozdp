@@ -7,7 +7,10 @@
 - 💬  If you have any question/feedback, please do not hesitate to reach me out!
 
 ### Projects
-- **ʜᴛᴍʟ** Caligraphy ([Download](https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/))
+
+<a href="https://sourceforge.net/projects/ciro2-utilities/files/Caligraphy/"><img alt="Caligraphy" src="caligraphy_card.png" /></a>
+
+
 - **ᴊᴀᴠᴀ** SonyStark ([Download](https://sourceforge.net/projects/ciro2-utilities/files/SonyStark/))
 - **ʙᴀᴛᴄʜ** BIOS Simulator ([Download](https://sourceforge.net/projects/ciro2-utilities/files/BIOS-Simulator/))
 - **ʜᴛᴍʟ** OpenCraft JavaScript Edition *(Old)* ([Download](https://github.com/CiroZDP/mc-jse))
