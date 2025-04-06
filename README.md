@@ -14,5 +14,7 @@
 
 
 ## Skills 🛠️🤔
-
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,c,nodejs,html,css,javascript&theme=light)](https://skillicons.dev)
+
+## Security 🔒
+You can verify my commits and published files using [my GPG public key](https://raw.githubusercontent.com/CiroZDP/cirozdp/refs/heads/main/security/publickey.asc).
